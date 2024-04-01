@@ -1,3 +1,7 @@
+
+This project has moved [here](https://github.com/Saffronius/Multimodal-Project)
+
+
 # Multilingual Content Platform
 **This is still a project in development. Any additions will promptly be added.(Please be patient)
 A responsive web application that harnesses advanced Natural Language Processing (NLP) to provide text translation and image captioning in multiple languages. It integrates BERT and SpaCy for text processing, utilizing generative models from Hugging Face for cross-lingual NLP tasks, all within a React frontend interface.
